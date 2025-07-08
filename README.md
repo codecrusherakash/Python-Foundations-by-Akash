@@ -20,5 +20,5 @@ This Is My Mind Gym<br>
 Every file is a rep.<br>
 Every bug I fix is a win.<br>  
 Every commit is me saying:<br>
->“I may not be there yet but I’m not the guy who quits.”<br><
+>“I may not be there yet but I’m not the guy who quits.”<br>
 Respect to anyone else grinding in silence.<br>No shortcuts, Just showing up.
